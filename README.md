@@ -1,6 +1,6 @@
 # Olá, eu sou a Richelli Adami!
 - Estudante de Desenvolvimento de Sistemas
-- Focada em Python, HTML e CSS
+- Focada em Python e Web
 - Preparando-me para o mercado de tecnologia
 - Contato: richelliadami@gmail.com## 👋
 
